@@ -1,0 +1,8 @@
+{
+  "name": "Himilo Qaran ",
+  "description": "Institutional governance operating system for national political parties, focusing on structural longevity, transparency, and anti-capture mechanisms.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone"
+  ]
+}
